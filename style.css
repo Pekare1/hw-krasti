@@ -1,0 +1,36 @@
+.box
+{ color: red;
+    text-align: center;
+    font-weight: 900;
+}
+.box2{
+    text-align: center;
+}
+.krasti{
+    margin: 45px 10px
+    10px
+    100px;
+    border-radius: 50%;
+ }
+ .menu{ 
+    margin-top: 45px;
+    
+    text-align: center;
+    color: chartreuse;
+    font-weight: bold;
+
+ }
+    .ted{ font-weight: bolder;
+
+
+    }
+    .benz{
+        font-weight: unset;
+color: yellowgreen;
+
+    }
+    .go{ 
+        color: red;
+        text-align: center;
+        font-weight: bolder;
+    }
